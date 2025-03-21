@@ -1,0 +1,7 @@
+"C:\Users\StaffNB 52\AppData\Local\Programs\Python\Python311\python.exe"
+C:\Users\StaffNB 52\Documents\Lokyi-stream-web\wfastcgi.py
+
+PYTHONPATH
+C:\Users\StaffNB 52\Documents\Lokyi-stream-web
+WSGI_HANDLER
+app.app
